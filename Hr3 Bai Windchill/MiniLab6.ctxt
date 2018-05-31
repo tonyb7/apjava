@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MiniLab6
+comment0.text=\ Need\ to\:\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t\ v
+comment2.target=double\ oldWindchill(double,\ double)
+comment3.params=t\ v
+comment3.target=double\ newWindchill(double,\ double)
+numComments=4

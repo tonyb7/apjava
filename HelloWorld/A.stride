@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="A" enable="true" strideversion="1">
+    <javadoc xml:space="preserve">Write a description of class A here.
+@author (your name) @version (a version number or a date)</javadoc>
+    <imports/>
+    <implements/>
+    <fields/>
+    <constructors/>
+    <methods>
+        <method access="public" static="true" type="void" type-java="void" name="main" enable="true">
+            <javadoc xml:space="preserve"/>
+            <params>
+                <param type="String[]" type-java="String[]" name="args"/>
+            </params>
+            <throws/>
+            <body>
+                <call expression="System.out.println(&quot;Hello World, this is my first Java pgrm&quot;)" expression-java="System.out.println(&quot;Hello World, this is my first Java pgrm&quot;)" enable="true"/>
+                <call expression="System.out.println(&quot;---end of execution---&quot;)" expression-java="System.out.println(&quot;---end of execution---&quot;)" enable="true"/>
+                <call expression="System.out.println(9/0)" expression-java="System.out.println(9 / 0)" enable="true"/>
+            </body>
+        </method>
+    </methods>
+</class>

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Working_With_Numbers
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ Print_It(int[])
+comment3.params=arr
+comment3.target=double\ Average(int[])
+numComments=4
